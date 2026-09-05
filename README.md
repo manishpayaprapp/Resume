@@ -26,7 +26,7 @@ I am passionate about building secure systems and exploring modern technologies 
 **Bachelor of Technology (B.Tech) – Computer Science**
 📍 Vellore Institute of Technology, Bhopal
 📅 Oct 2023 – Oct 2027
-📊 CGPA: 8.0/10
+📊 CGPA: 7.96/10
 
 ### 📚 Relevant Coursework
 
